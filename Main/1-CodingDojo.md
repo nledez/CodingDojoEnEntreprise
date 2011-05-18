@@ -27,11 +27,21 @@
 * partager
 * s'amuser
 
-!SLIDE bullets incremental
+!SLIDE center
 # TDD
-* <span class="red">Red</span>
-* <span class="green">Green</span>
-* Refactor
+## Test Development Driven
+
+!SLIDE center
+![Red-Green-Refactor](Red-Green-Refactor-1.png)
+
+!SLIDE center
+![Red-Green-Refactor](Red-Green-Refactor-2.png)
+
+!SLIDE center
+![Red-Green-Refactor](Red-Green-Refactor-3.png)
+
+!SLIDE center
+![Red-Green-Refactor](Red-Green-Refactor-4.png)
 
 !SLIDE center
 # Les formats du dojo

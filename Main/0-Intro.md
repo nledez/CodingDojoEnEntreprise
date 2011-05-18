@@ -1,36 +1,26 @@
 ﻿!SLIDE splash
 # Coding Dojo en Entreprise
 ## Pourquoi ? Comment ?
-### Thierry Henrio - Guillaume Collic
+### Nicolas Ledez
 
 !SLIDE
-# Thierry Henrio
+# Nicolas Ledez
 
 !SLIDE center
-![AgileFrance](agilefrance.png)
+## Néo-Soft
+![Neo-Soft](Neo-Soft.jpg)
+##[neo-soft.fr](http://www.neo-soft.fr/)
 
 !SLIDE center
+## Granit
+##Cloud - Open-Source
+![Granit](Granit.png)
+##[granit.org](http://www.granit.org/)
+
+!SLIDE center
+## Coding Dojo
 ![RennesOnRails](rennes-on-rails.jpg)
 ##[rennesonrails.com](http://www.rennesonrails.com)
-
-!SLIDE center
-![5Men](5Men.png)
-##[lacantine-rennes.net/prog](http://www.lacantine-rennes.net/prog)
-
-!SLIDE
-# Guillaume Collic
-
-!SLIDE center
-![AgileBreizh](AgileBreizh.png)
-
-!SLIDE center
-![AltNetRennes](AltNetRennes.png)
-
-!SLIDE center
-####En mission pour
-![Logica](LogicaS.png)
-## Coding Dojo tous les Jeudi midi
-![5-6Men](5-6Men.png)
 
 !SLIDE subsection
 # Sondage
@@ -40,6 +30,3 @@
 
 !SLIDE
 # Dojo ?
-
-!SLIDE
-# Midi techniques ?
