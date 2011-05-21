@@ -10,5 +10,9 @@
 # Guillaume Collic
 ## [https://github.com/gcollic/CodingDojoEnEntreprise](https://github.com/gcollic/CodingDojoEnEntreprise)
 
+!SLIDE licence
+# ![http://fr.creativecommons.org/contrats.htm](cc-by-nc-sa.png)
+## [cc-by-nc-sa](http://fr.creativecommons.org/contrats.htm)
+
 !SLIDE subsection
 # Questions ?
